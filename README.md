@@ -13,3 +13,11 @@ Il pacchetto comprende il pannello e i file necessari alla preparazione e instal
 Novità 0.7.3: Scambia trasferisce posizione e dimensione del lato maggiore, mantenendo le proporzioni. Anche i tratti vengono scalati; un secondo scambio ripristina posizione e dimensioni. Verificato automaticamente con host simulato; Annulla e comportamento nativo da collaudare in Illustrator.
 
 Novità 0.7.3: icona Ordine nella barra dei pannelli Illustrator, varianti per tema chiaro/scuro e Retina. Scambia continua a trasferire posizione e dimensione del lato maggiore senza deformazioni.
+
+## Gliffo Suite Beta — aggiornamento 9 novembre 2026
+
+[Scarica per Mac (DMG)](https://github.com/gliffo/downloads/raw/refs/heads/main/suite/Gliffo%20Suite%20Beta.dmg?v=6da8ae0c)
+
+[Scarica per Windows (EXE)](https://github.com/gliffo/downloads/raw/refs/heads/main/suite/Gliffo%20Suite%20Beta.exe?v=c408b926)
+
+Include la correzione del ridimensionamento delle finestre e la g Gliffo nella barra pannelli. Prova di 15 giorni dal primo avvio; aggiornare non rinnova la prova. Installer con lo stesso payload Adobe firmato, verificato per integrità. EXE compilato con NSIS, privo di firma Authenticode; avvio nativo Windows e collaudo della correzione in Illustrator da verificare. [Istruzioni Mac e Windows](https://gliffo.github.io/beta/download/).

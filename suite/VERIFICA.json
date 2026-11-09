@@ -1,0 +1,46 @@
+{
+  "signature": "cryptographically verified",
+  "certificate_sha256": "c67ecd368801a77bfa1dc1feed06452714c43728dc1bc9775fa1a0248ae445ed",
+  "subject": "CN=gliffo Beta,O=gliffo,ST=Italia,C=IT",
+  "certificate_trust": "embedded self-signed Beta certificate; not OS installer signing",
+  "covered_files": 64,
+  "zxp_sha256": "9975a04b5609ba4f230141e5d28815ef5b4782f303a95de49d5ff80922fd17f4",
+  "release": {
+    "version": "4.3.0",
+    "displayVersion": "1.0.0",
+    "channel": "Beta",
+    "simulated": false,
+    "trial": {
+      "days": 15,
+      "start": "first-launch",
+      "policy": "suite-beta-1"
+    }
+  },
+  "icons": [
+    "assets/panel-icons/",
+    "assets/panel-icons/gliffo-dark-rollover.png",
+    "assets/panel-icons/gliffo-rollover@2X.png",
+    "assets/panel-icons/gliffo-dark-normal.png",
+    "assets/panel-icons/gliffo-dark-normal@2X.png",
+    "assets/panel-icons/gliffo-dark-rollover@2X.png",
+    "assets/panel-icons/gliffo-normal.png",
+    "assets/panel-icons/gliffo-normal@2X.png",
+    "assets/panel-icons/gliffo-rollover.png"
+  ],
+  "windows_payload_entries_identical": 65,
+  "iconsMatchSource": true,
+  "windowFixMatchesProtectedSource": true,
+  "dmg": {
+    "dmg_sha256": "6da8ae0c1a36756e7fd29cf818374137aafd2a02550ff59fa7efb4b9d33ba18c",
+    "payloadIdentical": true,
+    "appIcon": "original Gliffo ICNS, referenced correctly by Info.plist",
+    "bannerMatchesSource": true,
+    "progressMatchesSource": true,
+    "readmeCopiesMatch": true,
+    "nativeExecution": "not performed in cloud"
+  },
+  "exe_sha256": "c408b926e9b0fb3cc38296047a1a8350b295fd90d3dbf86808bced0eab24fd85",
+  "nativeWindowsExecution": "not tested in cloud",
+  "authenticode": "not signed",
+  "publicationDate": "2026-11-09"
+}
