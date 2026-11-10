@@ -14,10 +14,10 @@ Novità 0.7.3: Scambia trasferisce posizione e dimensione del lato maggiore, man
 
 Novità 0.7.3: icona Ordine nella barra dei pannelli Illustrator, varianti per tema chiaro/scuro e Retina. Scambia continua a trasferire posizione e dimensione del lato maggiore senza deformazioni.
 
-## Gliffo Suite Beta — aggiornamento 9 novembre 2026
+## Gliffo Suite Beta — aggiornamento 10 novembre 2026
 
-[Scarica per Mac (DMG)](https://github.com/gliffo/downloads/raw/refs/heads/main/suite/Gliffo%20Suite%20Beta.dmg?v=6da8ae0c)
+[Scarica per Mac (DMG)](https://github.com/gliffo/downloads/raw/refs/heads/main/suite/Gliffo%20Suite%20Beta.dmg?v=3e044ba9)
 
-[Scarica per Windows (EXE)](https://github.com/gliffo/downloads/raw/refs/heads/main/suite/Gliffo%20Suite%20Beta.exe?v=c408b926)
+[Scarica per Windows (EXE)](https://github.com/gliffo/downloads/raw/refs/heads/main/suite/Gliffo%20Suite%20Beta.exe?v=56764e38)
 
-Include la correzione del ridimensionamento delle finestre e la g Gliffo nella barra pannelli. Prova di 15 giorni dal primo avvio; aggiornare non rinnova la prova. Installer con lo stesso payload Adobe firmato, verificato per integrità. EXE compilato con NSIS, privo di firma Authenticode; avvio nativo Windows e collaudo della correzione in Illustrator da verificare. [Istruzioni Mac e Windows](https://gliffo.github.io/beta/download/).
+Include italiano e inglese, rilevamento della lingua di Illustrator e scelta manuale «Lingua / Language» nella home. Conserva la correzione del ridimensionamento delle finestre e la g Gliffo nella barra pannelli. Prova di 15 giorni dal primo avvio; aggiornare non rinnova la prova. Installer con lo stesso payload Adobe firmato, verificato per integrità. EXE compilato con NSIS, privo di firma Authenticode; avvio nativo Windows e collaudo della correzione in Illustrator da verificare. [Istruzioni Mac e Windows](https://gliffo.github.io/beta/download/).
